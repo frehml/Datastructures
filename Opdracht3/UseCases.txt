@@ -1,0 +1,10 @@
+1. Een gebruiker maakt een account.
+2. Een gebruiker meldt zich aan zonder account en krijgt een foutmelding.
+3. Een gebruiker met een account meldt zich aan, bekijkt de film die hij wil bekijken en ziet
+dat die uitverkocht is. Hij meldt zich terug af.
+4. Een gebruiker maakt een reservatie.
+5. Een gebruiker bekijkt een lijst van films.
+6. Een gebruiker annuleert een reservatie.
+7. Een gebruiker verwijdert zijn/haar account.
+8. Een gebruiker kijkt naar de uren van een film
+9. Een gebruiker kijkt naar alle vertoningen.
