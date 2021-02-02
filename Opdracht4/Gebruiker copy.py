@@ -2,8 +2,8 @@
 # dictionary met als key: id en als value voornaam, achternaam en email
 # {id => [voornaam, achternaam, email]}
 
-"""gebruikers = {1: ['Frederic', 'Hamelink', 'frederic.hamelink@student.uantwerpen.be'],
-              2: ['Robbe', 'Embrechts', 'robbe@gmail.com']}"""
+"""gebruikers = {1: ['Josh', 'Bete', 'Josh.bete@student.uantwerpen.be'],
+              2: ['Flemel', 'Bercht', 'flemel@gmail.com']}"""
 
 class Gebruiker:
     def create():
