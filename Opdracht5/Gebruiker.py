@@ -3,8 +3,8 @@ import LinkedList
 # dictionary met als key: id en als value voornaam, achternaam en email
 # {id => [voornaam, achternaam, email]}
 
-"""gebruikers = {1: ['Bert', 'Feltch', 'frederic.hamelink@student.uantwerpen.be'],
-              2: ['Robert', 'Bellen', 'robbe@gmail.com']}"""
+"""gebruikers = {1: ['Bert', 'Feltch', 'Bert.Feltch@student.uantwerpen.be'],
+              2: ['Robert', 'Bellen', 'Robert@gmail.com']}"""
 
 class Gebruiker:
     def __init__(self):
